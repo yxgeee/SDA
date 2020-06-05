@@ -7,7 +7,7 @@
 
 This repository contains the implementation of [Structured Domain Adaptation with Online Relation Regularization for Unsupervised Person Re-ID](https://arxiv.org/abs/2003.06650)
 
-![framework](framework.png)
+<div align=center><img width="800" height="400" src="framework.png"/></div>
 
 We are still sorting out the codes of SDA, which will be released later.
 
