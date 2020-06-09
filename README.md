@@ -15,7 +15,7 @@ We are still sorting out the codes of SDA, which will be released later.
 If you find this work useful for your research, please cite our paper
 ```
 @misc{ge2020structured,
-    title={Structured Domain Adaptation for Unsupervised Person Re-identification},
+    title={Structured Domain Adaptation with Online Relation Regularization for Unsupervised Person Re-ID},
     author={Yixiao Ge and Feng Zhu and Rui Zhao and Hongsheng Li},
     year={2020},
     eprint={2003.06650},
